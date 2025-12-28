@@ -407,9 +407,9 @@ graph LR
 # **Sachith Gamage**
 ### Full-Stack Web Developer
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sachithgamage)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sachithgamage)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sachithgamage12)
 
 ---
 
